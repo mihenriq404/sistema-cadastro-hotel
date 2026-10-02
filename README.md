@@ -57,11 +57,11 @@ Após configurar o banco de dados, o projeto pode ser executado pela classe Mai
 
 ## Uso de Inteligência Artificial
 
-Durante o desenvolvimento deste projeto, foi utilizado auxílio de Inteligência Artificial como ferramenta de apoio, principalmente na aprendizagem e implementação da interface gráfica utilizando Java Swing, tecnologia que ainda não havia sido estudada previamente pelo autor.
+Durante o desenvolvimento deste projeto, foi utilizado auxílio de Inteligência Artificial como ferramenta de apoio, principalmente na aprendizagem e implementação da interface gráfica utilizando Java Swing, tecnologia que ainda não havia sido estudada previamente.
 
 A IA foi utilizada como recurso de suporte para compreender conceitos, solucionar dúvidas e auxiliar na implementação e integração dos componentes do sistema.
 
-O projeto também foi utilizado como oportunidade de estudo e aplicação prática dos conceitos de Programação Orientada a Objetos, Java, JDBC, banco de dados e organização de código.
+O projeto também foi utilizado como oportunidade de estudo e aplicação prática dos conceitos de Programação Orientada a Objetos, Java, JDBC, banco de dados e organização de código, que haviam sido estudados anteriormente.
 
 ## Contexto acadêmico
 
